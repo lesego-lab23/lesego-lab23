@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lesego</h1>
 <h3 align="center">A passionate full stack developer from Johannesburg, South Africa</h3>
 
-- 🔭 I’m currently working on **Data analytics dashboard**
+- 🔭 I’m currently working on **Full stack app**
 
 - 🌱 I’m currently learning **Springboot**
 

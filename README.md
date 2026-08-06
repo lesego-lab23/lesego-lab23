@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Full stack app**
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👯 I’m looking to collaborate on **backend projects**
 
